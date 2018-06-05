@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Diseases">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_plants"
+                    android:icon="@drawable/plant1"
+                    android:title="Plants" />
+                <item
+                    android:id="@+id/nav_animal"
+                    android:icon="@drawable/anima"
+                    android:title="Animals" />
+                <item
+                    android:id="@+id/nav_poultry"
+                    android:icon="@drawable/poultri"
+                    android:title="Poultry" />
+            </group>
+        </menu>
+    </item>
+
+
+    <item android:title="Interact">
+        <menu>
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Feedback/Add Disease" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/help"
+                android:title="About" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/aboutus"
+                android:title="Exit App" />
+        </menu>
+    </item>
+
+</menu>

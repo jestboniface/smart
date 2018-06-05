@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyFarm</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MyFarm App</string>
+    <string name="nav_header_subtitle">Best Farm Disease Solutions</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">About Us</string>
+    <string name="about">About MyFarm App</string>
+    <string name="header"><b>MyFarm Mobile App</b></string>
+    <string name="whatismyfarm">MyFarm Mobile Android App is project which was done by Students of Gulu university, aimed at bringing closer, a quick solution to farmers, in relation to diseases that more often attack their farms.</string>
+    <string name="copyright">Copyright:@2018 by SmartGroup </string>
+    <string name="members">Ochora Christopher, Emma, Jude, Mathew, Ivan, Kelly, Theodora</string>
+    <string name="version">Source Code done using Native Android Studio \n This version of MyFarm is compiled from Android 3.1.2</string>
+    <string name="animal_disease">Animal Diseases</string>
+    <string name="plant_disease">Plant Diseases</string>
+    <string name="poultry_disease">Poultry Diseases</string>
+
+    <string name="feedback">You can send feedback to us about the App experience, Usability or even need to add a certain Farm Disease</string>
+</resources>
